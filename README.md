@@ -1,5 +1,5 @@
 # TUGAS PRAKTIKUM 3
-# Algoritma program latihan1.py, latihan2.py, dan program1.py
+Algoritma program latihan1.py, latihan2.py, dan program1.py
 
 # latihan1.py
 ALUR ALGORITMA latihan1.py. kita memulai pertama
@@ -39,14 +39,21 @@ Kemudian mulai ketik codingannya text editor python dengan mengetik seperti diba
 print("==================================================")
 
 print(" Nama  	: Winda Yulianti")
+
 print(" Kelas 	: TI.18.A1")
+
 print(" NIM 	: 311810518")
+
 print("==================================================")
 
 import random
+
 jumlah = int(input("Masukan nilai n: "))
+
 print()
+
 for i in range(jumlah):
+
 	i = random.uniform(0.0,0.5)
 	print(i)
 print("selesai")
