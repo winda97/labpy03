@@ -37,6 +37,7 @@ buat file teks baru dari menu File -> New File. Sesaat kemudian akan tampil teks
 Kemudian mulai ketik codingannya text editor python dengan mengetik seperti dibawah ini :
 
 print("==================================================")
+
 print(" Nama  	: Winda Yulianti")
 print(" Kelas 	: TI.18.A1")
 print(" NIM 	: 311810518")
