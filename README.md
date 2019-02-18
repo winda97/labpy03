@@ -223,6 +223,9 @@ Selesai
 
 
 Demikian saya ketik ini atas perhatian ucapakan terimakasih
+
 Winda Yulianti
+
 TI.18.A1
+
 311810518
